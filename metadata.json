@@ -1,0 +1,6 @@
+{
+  "name": "FertiCast",
+  "description": "Big Data-Driven Prediction of Fertilizer Requirement for Precision Farming",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
